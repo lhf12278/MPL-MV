@@ -116,7 +116,7 @@ python test.py   --train_task 'duke_msmt'  --resume_test_model 'path'  --target_
 
 ## Contact
 
-OIf you have any questions, please feel free to contact me.(shuangli936@gmail.com) .
+If you have any questions, please feel free to contact me.(shuangli936@gmail.com) .
 
 ## Acknowledgement
 
